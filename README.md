@@ -8,4 +8,4 @@
 
 Modular Lobby Plugin: [Here](https://github.com/teraprath/Lobby)
 <br>
-Downlod Example Module: [Here](https://github.com/teraprath/ExampleModule/latest)
+Download Example Module: [Here](https://github.com/teraprath/ExampleModule/releases/latest)
