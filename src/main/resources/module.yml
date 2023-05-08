@@ -1,0 +1,4 @@
+name: ExampleModule
+version: 1.0-SNAPSHOT
+main: org.yourpackage.example.ExampleModule
+author: TerryGHG
