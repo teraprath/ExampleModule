@@ -8,4 +8,5 @@
 </div>
 </div>
 
-Download: https://github.com/teraprath/Lobby
+Modular Lobby Plugin: https://github.com/teraprath/Lobby
+Downlod Example Module: https://github.com/teraprath/ExampleModule/latest
